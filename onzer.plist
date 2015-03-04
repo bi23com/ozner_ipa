@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ozner.cup</string>
 				<key>bundle-version</key>
-				<string>1.5.4_2</string>
+				<string>1.5.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
